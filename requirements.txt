@@ -1,0 +1,4 @@
+Flask
+Gunicorn
+base64
+PyPDF2
