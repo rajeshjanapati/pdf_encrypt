@@ -1,4 +1,3 @@
 Flask
-Gunicorn
-base64
 PyPDF2
+Gunicorn
